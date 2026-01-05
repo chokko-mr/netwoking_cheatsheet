@@ -1,6 +1,6 @@
 # Cisco basic configuration
 
-##  Add vlan and configure access port
+###  Add vlan and configure access port
 
 ```
 vlan VLAN_ID
